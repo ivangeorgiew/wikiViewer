@@ -1,3 +1,3 @@
-# static-boilerplate
+# wikiViewer
 
-A boilerplate for building static websites including Normalize, Sass, Autoprefixer, Browser-Sync, Gulp ...
+An app which Searches for Wikipedia Pages or gives one at random
