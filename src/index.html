@@ -7,12 +7,27 @@
     <meta name='author' content='Ivan Georgiev'>
     <meta name='description' content=''>
     <meta name='keywords' content=''>
-    <title>Change the Title</title>
+    <title>Wikipedia Viewer</title>
     <!-- Main.CSS -->
     <link rel='stylesheet' href='assets/css/main.min.css' type='text/css'>
+    <!-- FontAwesome -->
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' type='text/css'>
   </head>
   <body> 
-
+    <div class='main--container'>
+      <h1 class='h1--main'> Wikipedia Viewer </h1>
+        <input class='i--search' type='text'name='search' placeholder='Search'>
+      <br>
+      <div class='b--container'>
+        <button class='b--random'>
+          <i class='fa fa-2x fa-random'></i>
+        </button>
+        <button class='b--search'>
+          <i class='fa fa-2x fa-search'></i>
+        </button>
+      </div>
+    </div>
+    <div class='wiki--page'></div>
     <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script> 
     <script src='assets/js/app.min.js'></script>
   </body>
