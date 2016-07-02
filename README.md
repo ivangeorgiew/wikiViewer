@@ -4,12 +4,11 @@ An app which Searches for Wikipedia Pages or gives one at random
 
 ### Feedback
 
-**Feedback** is much **appreciated** since it was really hard to come up with the
-code and maybe there are still some possibilities for a mistake.
+**Feedback** is much **appreciated** since there are still some possibilities for a mistake.
 
 ### Installation
 
-I used my static-boilerplate repo to make the website.
+I used my [static-boilerplate](https://github.com/ivangeorgiew/static-boilerplate) repo to make the website.
 In case you want to install:
 
 1) cd /*YOUR DIRECTORY*/
