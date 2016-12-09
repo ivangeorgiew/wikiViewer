@@ -1,6 +1,7 @@
 # wikiViewer
 
 An app which Searches for Wikipedia Pages or gives one at random
+View the app live at (https://ivangeorgiew.github.io/wikiViewer/)
 
 ### Feedback
 
