@@ -14,7 +14,7 @@ In case you want to install:
 
 1) `cd /*YOUR DIRECTORY*/`
 
-2) `git clone https://github.com/ivangeorgiew/myCalculator.git`
+2) `git clone https://github.com/ivangeorgiew/wikiViewer.git`
 
 3) `npm i`
 
